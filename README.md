@@ -5,4 +5,6 @@ Play while you learn and enjoy hand-tracking features.
 Follow quiz-style lessons. 
 Test yourself using the machine learning based hand-tracking mode that gives you feedback on your signing.
 
+Hosted on Heroku : https://its-a-sign-app.herokuapp.com/api/
+
 tech : React native, Tensorflow.js, Axios, Expo, Google's teachable machine model.
